@@ -7,4 +7,4 @@ Dil: Python
 Kütüphane: requests (API üzerinden veri çekmek için)
 
 # 🚀 Çalıştırma
-pip install requests komutundan sonra python dosya_adi.py ile çalıştırılabilir.
+pip install requests komutundan sonra python hdurumu.py ile çalıştırılabilir.
